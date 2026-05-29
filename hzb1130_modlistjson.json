@@ -204,6 +204,46 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.1.0",
+			"name": "PlacingGeometrically",
+			"displayName": "",
+			"author": "hzb1130",
+			"previousAuthors": "",
+			"released": "2026-05-29",
+			"updated": "2026-05-29",
+			"downloadURL": "https://github.com/hzb1130/PlacingGeometrically/releases/download/v1.1.0/PlacingGeometrically.dll",
+			"modURL": "https://github.com/hzb1130/PlacingGeometrically",
+			"description": "A variant of Placing Anywhere that adds some functionality.\n几何学放置。",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.72"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
