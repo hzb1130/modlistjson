@@ -223,7 +223,9 @@
 				"Gameplay"
 			],
 			"gameversion": [],
-			"images": [],
+			"images": [
+				"https://raw.githubusercontent.com/hzb1130/PlacingGeometrically/main/1.png"
+			],
 			"dependencies": [
 				"ModSettings"
 			],
